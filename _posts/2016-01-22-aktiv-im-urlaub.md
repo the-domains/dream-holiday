@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Drei tolle Möglichkeiten, aktive mitten in der Natur den Urlaub zu verbringen!'
-datePublished: '2016-01-22T16:20:37.531Z'
-dateModified: '2016-01-22T16:13:25.390Z'
+datePublished: '2016-01-22T16:32:50.324Z'
+dateModified: '2016-01-22T16:32:48.818Z'
 title: Aktiv im Urlaub
 author: []
 sourcePath: _posts/2016-01-22-aktiv-im-urlaub.md
