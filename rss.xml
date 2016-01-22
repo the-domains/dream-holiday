@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ideen für den traumhaften Urlaub]]></title>
+        <description><![CDATA[Ideen für den traumhaften Urlaub]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 15:58:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aktiv im Urlaub]]></title>
+            <description><![CDATA[<article><h1>Aktiv im Urlaub</h1><p>Drei tolle Möglichkeiten, aktive mitten in der Natur den Urlaub zu verbringen!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97cf551078c921adad07eeb6b612404bf7af0945.jpg"></article>]]></description>
+            <link>undefinedaktiv-im-urlaub/index.html</link>
+            <guid isPermaLink="false">28f6b9e5-e743-48bc-94d7-8d748caf81bd</guid>
+            <pubDate>Fri, 22 Jan 2016 15:57:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
