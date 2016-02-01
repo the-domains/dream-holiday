@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Drei tolle Möglichkeiten, aktive mitten in der Natur den Urlaub zu verbringen!'
-datePublished: '2016-01-22T16:32:50.506Z'
-dateModified: '2016-01-22T16:32:48.818Z'
+datePublished: '2016-02-01T17:18:40.378Z'
+dateModified: '2016-01-22T16:58:52.984Z'
 title: Aktiv im Urlaub
 author: []
 sourcePath: _posts/2016-01-22-aktiv-im-urlaub.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: aktiv-im-urlaub/index.html
-_type: Article
+_type: WebPage
 
 ---
 ###### Mauritius Extrem: Dieser Ausflug findet je nach Verfügbarkeit entweder im Casela Park oder Tal der 23 Farben statt.
