@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Mit dem Katamaran um die Insel unterwegs
-datePublished: '2016-01-22T16:46:00.807Z'
-dateModified: '2016-01-22T16:45:19.156Z'
+datePublished: '2016-02-09T17:47:09.497Z'
+dateModified: '2016-02-09T17:47:08.177Z'
 title: Katamaran
 author: []
 authors: []
@@ -19,7 +19,7 @@ publisher:
 sourcePath: _posts/2016-01-22-katamaran.md
 published: true
 url: katamaran/index.html
-_type: Article
+_type: WebPage
 
 ---
 Katamaranfahrten
