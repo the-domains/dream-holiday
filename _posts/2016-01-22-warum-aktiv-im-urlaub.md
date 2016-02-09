@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Ideen für den gesunden aktiven Urlaub sammeln und teilen
-datePublished: '2016-01-22T16:56:14.436Z'
-dateModified: '2016-01-22T16:56:03.644Z'
+datePublished: '2016-02-09T17:46:45.343Z'
+dateModified: '2016-02-09T17:46:41.813Z'
 title: Warum aktiv im Urlaub?
 author: []
 authors: []
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-01-22-warum-aktiv-im-urlaub.md
 published: true
-url: warum-aktiv-im-urlaub/index.html
-_type: Article
+_type: Blurb
 
 ---
 Warum aktiv im Urlaub?
