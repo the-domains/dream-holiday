@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Drei tolle Möglichkeiten, aktive mitten in der Natur den Urlaub zu verbringen!'
-datePublished: '2016-02-10T12:15:16.189Z'
-dateModified: '2016-02-10T12:15:14.759Z'
-title: Aktiv im Urlaub
+description: ''
+datePublished: '2016-04-20T13:28:57.959Z'
+dateModified: '2016-04-20T13:28:28.363Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-22-aktiv-im-urlaub.md
 published: true
@@ -34,7 +34,4 @@ _type: WebPage
 
 ###### **Wandern**
 
-###### Sie können Mauritius auf einer  Vielzahl von Wanderwegen in unterschiedlicher Schwierigkeitsgraden erkunden. Sie bieten spektakuläre Aussichten auf Berge, Flüsse und Wälder. Alle Wanderungen werden von einem spezialisierten und erfahrenen Führer begleitet.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f22f4317-04e7-49cd-8771-44ad022e854e.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/97cf551078c921adad07eeb6b612404bf7af0945.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a59d99d4-8338-4296-846d-1835054b8b86.jpg)
+###### Sie können Mauritius auf einer Vielzahl von Wanderwegen in unterschiedlicher Schwierigkeitsgraden erkunden. Sie bieten spektakuläre Aussichten auf Berge, Flüsse und Wälder. Alle Wanderungen werden von einem spezialisierten und erfahrenen Führer begleitet.
