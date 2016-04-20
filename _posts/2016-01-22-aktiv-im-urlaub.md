@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T13:33:42.949Z'
-dateModified: '2016-04-20T13:31:50.456Z'
+datePublished: '2016-04-20T13:34:32.290Z'
+dateModified: '2016-04-20T13:34:11.927Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-aktiv-im-urlaub.md
