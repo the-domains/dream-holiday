@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T13:30:03.113Z'
-dateModified: '2016-04-20T13:29:53.498Z'
+datePublished: '2016-04-20T13:33:42.949Z'
+dateModified: '2016-04-20T13:31:50.456Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-aktiv-im-urlaub.md
@@ -22,6 +22,8 @@ url: aktiv-im-urlaub/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76331ad-d74e-42ea-9bb6-413102e934fd.jpg)
+
 ###### Mauritius Extrem: Dieser Ausflug findet je nach Verfügbarkeit entweder im Casela Park oder Tal der 23 Farben statt.
 
 ###### **Ziplining**
@@ -35,3 +37,5 @@ _type: WebPage
 ###### **Wandern**
 
 ###### Sie können Mauritius auf einer Vielzahl von Wanderwegen in unterschiedlicher Schwierigkeitsgraden erkunden. Sie bieten spektakuläre Aussichten auf Berge, Flüsse und Wälder. Alle Wanderungen werden von einem spezialisierten und erfahrenen Führer begleitet.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5323750-5b07-40dd-b4db-9763b6268970.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7674c481-621a-4cff-992c-551c579138f9.jpg)
