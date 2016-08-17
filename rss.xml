@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ideen für den traumhaften Urlaub]]></title>
+        <description><![CDATA[Ideen für den traumhaften Urlaub]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 20:21:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97650e41-b933-49d2-bdc5-686a84f8efe0.jpg">]]></description>
+            <link>undefineddas-ist-ein-neuer-text-fur-die-seite-traumurlaub-ein-test-u/index.html</link>
+            <guid isPermaLink="false">d7b79a73-7a03-4915-976b-3b3b12d3146b</guid>
+            <pubDate>Wed, 17 Aug 2016 20:21:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
